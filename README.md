@@ -7,7 +7,7 @@ A clean, responsive **social links profile page** built from the *Frontend Mento
 
 
 ## 📌 Overview
--"I will add the portfolio as soon as it's completed."
+ ⚠️ **Note:**  **portfolio sections** are currently *added as likes* in navigation, but they are **not available yet** (work in progress).
 
 This project presents a minimal profile interface with links to your social accounts.  
 Users should be able to:
